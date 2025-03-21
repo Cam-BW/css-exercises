@@ -1,20 +1,18 @@
-.class {
-    background-color:lightpink;
-    font-family: "verdana", DejaVu Sans, sans-serif;
+.odd {
+    background-color: lightpink;
+    font-family:"verdana", "dejavu sans", sans-serif;
 }
 
-#ID {
-    color:blue;
+#two {
+    color: blue;
     font-size: 36px;
 }
 
-.cooler {
+.new-font-size {
     font-size: 24px;
-    font-weight: bold;
 }
 
-#ID2 {
+#four {
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
